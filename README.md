@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SimeonLiley
+- 🌱 I’m currently learning responsive web design
+- 📫 How to reach me ... send a message!
