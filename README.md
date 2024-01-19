@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @SimeonLiley
-- 🌱 I’m currently learning responsive web design and Data Science fundamentals 
+- 🌱 I’m currently learning responsive web design and Data Science fundamentals
+- I am also doing some Java Android App development
 - 📫 How to reach me ... send a message!
